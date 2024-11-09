@@ -9,7 +9,7 @@
 📍 Living in Rehovot, Israel
 🇫🇮 From Finland
 
-[](https://github.com/iinaraz/iinaraz.github.io/me_and_moomin.jpg)
+![](https://github.com/iinaraz/iinaraz.github.io/me_and_moomin.jpg)
 
 ## Academic Background
 
@@ -24,7 +24,7 @@ PhD Student - Weizmann Institute of Science
 🧵 Handcraft
 🖌️ Art
 
-[](https://github.com/iinaraz/iinaraz.github.io/cows_field.jpg) [](https://github.com/iinaraz/iinaraz.github.io/tampere.jpg)
+![](https://github.com/iinaraz/iinaraz.github.io/cows_field.jpg) ![](https://github.com/iinaraz/iinaraz.github.io/tampere.jpg)
 
 ## Contact
 
