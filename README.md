@@ -2,10 +2,14 @@
 ![Banner](https://github.com/iinaraz/iinaraz.github.io/raw/main/cesarea.jpg)
 
 ## Iina Takala Raz
-#### 👩‍🔬 PhD Student at the [Clinical Cancer Proteomics Lab](https://www.weizmann.ac.il/mcb/TGeiger/) since 09/2023
-### 🇫🇮 From Finland
-### 💻 Working with mass spectrometry-based proteomics data analysis
+👩‍🔬 PhD Student at the [Clinical Cancer Proteomics Lab](https://www.weizmann.ac.il/mcb/TGeiger/) since 09/2023
+
+🇫🇮 From Finland
+
+💻 Working with mass spectrometry-based proteomics data analysis
+
 🧫 Cancer tumor microenvironment heterogeneity
+
 🏫 [WIS](https://www.weizmann.ac.il/pages/)
 
 ## Academic
