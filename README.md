@@ -1,34 +1,24 @@
-![Banner](https://github.com/iinaraz/iinaraz.github.io/main/cesarea.jpg)
 
-# Iina Takala Raz
+![Banner](https://github.com/iinaraz/iinaraz.github.io/raw/main/cesarea.jpg)
 
-## Profile
-
-👩‍🔬 PhD student at the [Clinical Cancer Proteomics](https://www.weizmann.ac.il/mcb/TGeiger/) lab at the Weizmann Institute of Science
-🧫 Working with proteomics data to deconvolute the proteomic heterogeneity of tumor (immune) microenvironments
-📍 Living in Rehovot, Israel
+## Iina Takala Raz
+👩‍🔬 PhD Student at the [Clinical Cancer Proteomics Lab](https://www.weizmann.ac.il/mcb/TGeiger/) since 09/2023
 🇫🇮 From Finland
+💻 Working with mass spectrometry-based proteomics data analysis
+🧫 Cancer tumor microenvironment heterogeneity
+🏫 [WIS](https://www.weizmann.ac.il/pages/)
 
-![](https://github.com/iinaraz/iinaraz.github.io/main/me_and_moomin.jpg)
-
-## Academic Background
-
-BSc Biochemistry - Univeristy of Turku
-MSc Biochemistry - University of Turku
-Intern, Researcher - Max Planck Institute for Multidisciplinary Sciences (Göttingen, Germany)
-PhD Student - Weizmann Institute of Science
+## Academic
+See my [LinkedIn profile](https://www.weizmann.ac.il/mcb/TGeiger/)
 
 ## Interests
+In addition to science, I'm interested in environmental issues and sustainable living, minimalism and feminism. I love art and working with my hands, painting, knitting, sewing or refurbishing furniture.
 
-🍀 Nature
-🧵 Handcraft
-🖌️ Art
+Studying on the [Python Course](https://szabgab.com/)
 
-![](https://github.com/iinaraz/iinaraz.github.io/tree/main/cows_field.jpg) ![](https://github.com/iinaraz/iinaraz.github.io/tree/maintampere.jpg)
+![](/cows_field.jpg) ![](/me_and_moomin.jpg) ![](/tampere.jpg)
 
 ## Contact
-
 📧 iina.takala@weizmann.ac.il
-IG takalanplikka
-
+IG [takalanplikka](https://www.instagram.com/takalanplikka/)
 
