@@ -1,4 +1,4 @@
-![Banner](https://github.com/iinaraz/iinaraz.github.io/tree/main/cesarea.jpg)
+![Banner](https://github.com/iinaraz/iinaraz.github.io/main/cesarea.jpg)
 
 # Iina Takala Raz
 
@@ -9,7 +9,7 @@
 📍 Living in Rehovot, Israel
 🇫🇮 From Finland
 
-![](https://github.com/iinaraz/iinaraz.github.io/tree/main/me_and_moomin.jpg)
+![](https://github.com/iinaraz/iinaraz.github.io/main/me_and_moomin.jpg)
 
 ## Academic Background
 
