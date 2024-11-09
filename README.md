@@ -1,4 +1,4 @@
-![Banner Image](https://github.com/iinaraz/iinaraz.github.io/cesarea.jpg)
+![Banner](https://github.com/iinaraz/iinaraz.github.io/cesarea.jpg)
 
 # Iina Takala Raz
 
