@@ -2,8 +2,8 @@
 ![Banner](https://github.com/iinaraz/iinaraz.github.io/raw/main/cesarea.jpg)
 
 <div style="background-color: #e3d5ca; padding: 10px; border-radius: 5px;">
-  
 Iina Takala Raz
+</div>
 
 👩‍🔬 PhD Student at the [Clinical Cancer Proteomics Lab](https://www.weizmann.ac.il/mcb/TGeiger/) since 09/2023
 
@@ -14,7 +14,6 @@ Iina Takala Raz
 🧫 Cancer tumor microenvironment heterogeneity
 
 🏫 [WIS](https://www.weizmann.ac.il/pages/)
-</div>
 
 ## Academic
 See my [LinkedIn profile](https://www.linkedin.com/in/iina-raz/)
