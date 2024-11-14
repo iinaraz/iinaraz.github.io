@@ -2,7 +2,9 @@
 ![Banner](https://github.com/iinaraz/iinaraz.github.io/raw/main/cesarea.jpg)
 
 <div style="background-color: #e3d5ca; padding: 10px; border-radius: 5px;">
-## Iina Takala Raz
+  
+Iina Takala Raz
+
 👩‍🔬 PhD Student at the [Clinical Cancer Proteomics Lab](https://www.weizmann.ac.il/mcb/TGeiger/) since 09/2023
 
 🇫🇮 From Finland
@@ -22,10 +24,10 @@ In addition to science, I'm interested in environmental issues and sustainable l
 
 Studying on the [Python Course](https://szabgab.com/)
 
-<p align="center">
-<img src="/cows_field.jpg" width="200">
-<img src="/me_and_moomin.jpg" width="200">
-<img src="/tampere.jpg" width="200">
+<p align="left">
+<img src="/cows_field.jpg" width="250">
+<img src="/me_and_moomin.jpg" width="250">
+<img src="/tampere.jpg" width="250">
 </p>
 
 ## Contact
