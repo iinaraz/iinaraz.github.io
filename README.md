@@ -26,3 +26,4 @@ Studying on the [Python Course](https://szabgab.com/)
 📧 iina.takala@weizmann.ac.il
 IG [takalanplikka](https://www.instagram.com/takalanplikka/)
 
+<img src="/cows_field.jpg" width="400" height="300">
