@@ -20,10 +20,12 @@ In addition to science, I'm interested in environmental issues and sustainable l
 
 Studying on the [Python Course](https://szabgab.com/)
 
-![](/cows_field.jpg) ![](/me_and_moomin.jpg) ![](/tampere.jpg)
+<img src="/cows_field.jpg" width="400" height="300">
+<img src="/me_and_moomin.jpg" width="400" height="300">
+<img src="/tampere.jpg" width="400" height="300">
 
 ## Contact
-📧 iina.takala@weizmann.ac.il
-IG [takalanplikka](https://www.instagram.com/takalanplikka/)
 
-<img src="/cows_field.jpg" width="400" height="300">
+📧 iina.takala@weizmann.ac.il
+
+IG [takalanplikka](https://www.instagram.com/takalanplikka/)
